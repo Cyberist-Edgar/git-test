@@ -17,4 +17,5 @@ The following function has been tested:
 - [x] git reset --hard  (commit_id|HEAD)
 - [x] git reflog
 - [x] git --global 
+- [x] git push origin --delete branch_name
 - [x] ......
